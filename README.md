@@ -1,4 +1,4 @@
-#H1 <strong> Recipe_Recommender_Asssignment_EDA </strong> 
+Alt-H1 <strong> Recipe_Recommender_Asssignment_EDA </strong> 
 
 
 Objective of this Case Study
