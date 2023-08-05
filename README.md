@@ -13,7 +13,7 @@ Perform all the necessary tasks provided in task list
 
 
 #### Task-List
-Task 1: Read the data: Read RAW_recipes.csv from S3 bucket. Ensure each field has the correct data type.
+** Task 1: ** Read the data: Read RAW_recipes.csv from S3 bucket. Ensure each field has the correct data type.
 
 Task 2: Extract individual features from the nutrition column: Separate the array into seven individual columns to create new columns named calories, total_fat_PDV, sugar_PDV, sodium_PDV, protein_PDV, saturated_fat_PDV, and carbohydrates_PDV.
 
